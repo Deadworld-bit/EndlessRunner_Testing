@@ -9,7 +9,7 @@
 ### Screenshots:
 
 ![Project First ScreenShot](https://github.com/Deadworld-bit/EndlessRunner_Testing/blob/main/Pics/Screenshot%202024-06-12%20125335.png)<br><br>
-![Project Second ScreenShot](https://github.com/Deadworld-bit/EndlessRunner_Testing/blob/main/Pics/Screenshot%202024-06-12%20125335.png)<br><br>
-![Project Third ScreenShot](https://github.com/Deadworld-bit/EndlessRunner_Testing/blob/main/Pics/Screenshot%202024-06-12%20125335.png)<br><br>
+![Project Second ScreenShot](https://github.com/Deadworld-bit/EndlessRunner_Testing/blob/main/Pics/Screenshot%202024-07-07%20154834.png)<br><br>
+![Project Third ScreenShot](https://github.com/Deadworld-bit/EndlessRunner_Testing/blob/main/Pics/Screenshot%202024-07-07%20154911.png)<br><br>
 
 ##### © Deadworld 2023
