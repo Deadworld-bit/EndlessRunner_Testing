@@ -1,12 +1,10 @@
 [![Create a EndlessRunner with Unity | © 2023 by Deadworld ]](https://github.com/Deadworld-bit/EndlessRunner_Testing.git)
 # Welcome to EndlessRunner_Testing repository
 ## This repo stores unity projects. You will find in this repo the following stuff
-* TurnBasedStrategy_Testing as the name suggest, this game is an endless runner game that player overcome obstacle and
-collect coins.
-* The game's difficulty will increase base on how long the player has played.
-* This unity project using asset and models on unity assets pages.
-* This game provide some basic UI access and will be update soon.
-
+* EndlessRunner_Testing is an endless runner game where players overcome obstacles and collect coins.
+* The game's difficulty increases the longer the player plays, providing a progressively challenging experience.
+* A basic UI is currently implemented, with plans for updates to enhance functionality and user experience.
+* The project utilizes assets and models from the Unity Asset Store to create a rich visual environment. 
 ##### © Deadworld 2023
 
 ### Screenshots:
